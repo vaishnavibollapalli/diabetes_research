@@ -2,6 +2,8 @@
 
 An advanced computational neuroscience and interpretable machine learning pipeline that uses longitudinal morphometric tracking from the OASIS-3 clinical cohort to map sex-specific patterns of brain aging and predict clinical cognitive decline.
 
+Overview of the project: https://sled-couch-66345564.figma.site
+
 ---
 
 ## 🔬 Core Scientific Breakthrough & Key Findings
